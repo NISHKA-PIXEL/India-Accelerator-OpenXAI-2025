@@ -13,7 +13,6 @@ A Next.js template for building amazing audio experiences! This template provide
 ## 🚀 Getting Started
 
 ### Installation
-
 1. Navigate to the nextjs-app directory:
 ```bash
 cd nextjs-app
