@@ -6,6 +6,7 @@ node_modules/
 **/.next/
 .next/
 
+
 # Production builds
 **/build/
 build/
